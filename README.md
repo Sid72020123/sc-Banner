@@ -4,3 +4,5 @@ Shows the stats of the ScratchConnect Python Library on a banner! Updates it eve
 Demo:
 
 ![banner](https://sc-live-images.deta.dev/get_image/banner.png)
+
+Hosted on Replit!
