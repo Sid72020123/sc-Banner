@@ -1,8 +1,12 @@
 # sc-Banner
 Shows the stats of the ScratchConnect Python Library on a banner! Updates it every day!
 
-Demo:
+## ScratchConnect Library Stats:
 
-![banner](https://sc-live-images.deta.dev/get_image/banner.png)
+URL: https://sc-live-images.deta.dev/get_image/sc_banner.png
+
+Demo (may not be up-to date! Please see the image from the link above!):
+
+![banner](https://sc-live-images.deta.dev/get_image/sc_banner.png)
 
 Hosted on Replit!
