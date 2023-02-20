@@ -9,4 +9,4 @@ Demo (may not be up-to date! Please see the image from the link above!):
 
 ![banner](https://sc-live-images.deta.dev/get_image/sc_banner.png)
 
-Hosted on Replit!
+Hosted on [Replit](https://replit.com)!
