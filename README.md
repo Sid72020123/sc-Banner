@@ -5,8 +5,10 @@ Shows the stats of the ScratchConnect Python Library on a banner! Updates it eve
 
 URL: https://sc-live-images.deta.dev/get_image/sc_banner.png
 
-Demo (may not be up-to date! Please see the image from the link above!):
+**Demo (may not be up-to date! Please see the image from the link above!):**
 
 ![banner](https://sc-live-images.deta.dev/get_image/sc_banner.png)
 
-Hosted on [Replit](https://replit.com)!
+
+
+**Hosted on [Replit](https://replit.com)!**
