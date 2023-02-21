@@ -1,9 +1,11 @@
-from API import start
+from API import start_sc, start_sui
 from threading import Thread
 from flask import Flask
 
-t = Thread(target=start)
-t.start()
+t1 = Thread(target=start_sc)
+t2 = Thread(target=start_sui)
+t1.start()
+t2.start()
 
 app = Flask('app')
 
